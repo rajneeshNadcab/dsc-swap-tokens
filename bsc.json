@@ -9,6 +9,7 @@
       },
     {
         "address": "0xE0eAe74BEc76696Cc82dF119Ea35653506D54155",
+        "chainId": 56,
         "symbol": "DSC",
         "name": "DSC",
         "decimals": 18,
